@@ -145,7 +145,7 @@
 
 #### Jasmine
 
-- [Jasmine Documentation](http://pivotal.github.io/jasmine/)
+- [Jasmine Documentation](https://jasmine.github.io/)
 - [Jasmine Cheat Sheet](http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/)
 
 #### JavaScript Frameworks and Libraries
